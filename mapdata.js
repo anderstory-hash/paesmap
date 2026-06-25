@@ -350,7 +350,8 @@ var simplemaps_usmap_mapdata={
     },
     CA: {
       name: "California",
-      description: "<a href=\"tel:+805-286-7513\">805-286-7513</a>\n<a href=\"mailto:sales@paesauthor.com\">sales@paesauthor.com</a>",
+      color: "#3399cc",
+      description: "<h4>Rebekkah Swisher</h4>\n<a href=\"tel:+310-418-1769\">310-418-1769</a>\n<a href=\"mailto:rebekkah@paesauthor.com\">rebekkah@paesauthor.com</a>",
       zoomable: "no"
     },
     MI: {
